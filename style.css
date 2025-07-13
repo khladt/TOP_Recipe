@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 5px solid black;
+    margin-bottom: 15px;
+
+}
+
+.link-contain{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.link{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 15px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+
+img{
+    background-color: aliceblue;
+    height: auto;
+    width: 64vh;
+    border: 5px solid black;
+    padding: 32px;
+    margin: 5px;
+}
